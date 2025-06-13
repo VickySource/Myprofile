@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/75d28046-c453-4c01-9878-b0dc0a0c7dad)# Hi there 👋, I'm Vicky S!
+# Hi there 👋, I'm Vicky S!
 
 🎓 Passionate Java Developer | 🚀 Aspiring Software Engineer  
 💻 Currently working on a **Price Alert System** built with **Java 21**, **Maven**, and **SQLite**  
