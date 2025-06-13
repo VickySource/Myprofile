@@ -1,19 +1,35 @@
-<h1 align="center">Hi 👋, I'm Vicky</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+![image](https://github.com/user-attachments/assets/75d28046-c453-4c01-9878-b0dc0a0c7dad)# Hi there 👋, I'm Vicky S!
 
-- 🌱 I’m currently learning **java**
+🎓 Passionate Java Developer | 🚀 Aspiring Software Engineer  
+💻 Currently working on a **Price Alert System** built with **Java 21**, **Maven**, and **SQLite**  
+📍 Based in India | Learning & growing one project at a time
 
-- 💬 Ask me about **Html Javascript css**
+---
 
-- 📫 How to reach me **vvickyar25@gmail.com**
+## 💼 Current Projects
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vicky s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicky s" height="30" width="40" /></a>
-</p>
+- 🔔 **Price Alert System** – Real-time price drop alerts from e-commerce platforms  
+  Tech Stack: `Java 21`, `SQLite`, `Maven`, `VS Code`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+- 💡 [More projects coming soon...]()
 
-<h3 align="left">Support:</h3>
-<p><a href="https://ko-fi.com/ko-fi Vicky"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ko-fi Vicky" /></a></p><br><br>
+---
+
+## 🛠️ Skills & Tools
+
+- Programming: `Java`, `SQL`
+- Tools: `Visual Studio Code`, `Git`, `GitHub`
+- Build Tools: `Maven`
+- Databases: `SQLite`
+- OS: `Windows`
+
+---
+
+## 📫 Let’s Connect
+
+- GitHub: [github.com/vickys](https://github.com/vickys)
+- LinkedIn: [Your LinkedIn Profile Here]
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
