@@ -27,8 +27,8 @@
 
 ## 📫 Let’s Connect
 
-- GitHub: [github.com/vickys](https://github.com/vickys)
-- LinkedIn: [Your LinkedIn Profile Here]
+- GitHub: https://github.com/VickySource
+- LinkedIn: https://www.linkedin.com/in/vicky-s1/
 
 ---
 
