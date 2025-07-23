@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Vicky S!
 
 🎓 Passionate Java Developer | 🚀 Aspiring Software Engineer  
-💻 Currently working on a **Price Alert System** built with **Java 21**, **Maven**, and **SQLite**  
+  
 📍 Based in India | Learning & growing one project at a time
 
 ---
